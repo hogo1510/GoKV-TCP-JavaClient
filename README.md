@@ -13,3 +13,4 @@ run Java (in (I/P)DE, terminal or as a Jar File doesn't matter
 - already a usability java file for basic use (aka the only use atp)
 - it uses json as form of communication (not security proof)
 - it was a small side project of my internship
+- also it's a part of a bigger project that i may or may not post on github haha
